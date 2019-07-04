@@ -1,0 +1,13 @@
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62025
+#夜神模拟器> cmd -> adb connect 127.0.0.1:62025
+appname: kaoyanbang3.1.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+
+unicodeKeyboard: True
+resetKeyboard: true
+noReset: False
+ip: 127.0.0.1
+port: 4723
